@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.tenor.com/flJXkexMBnsAAAAM/working-late-work.gif" width="100"/>
+</div>
