@@ -6,7 +6,7 @@ I'm Benjamin, a developer from France 🇫🇷
 I am currently working on a project called [**ScanVerdict**](https://github.com/ScanVerdict) as a **Frontend Developer**.
 
 ## 📫 How to reach me:
-[![Discord Badge](https://img.shields.io/badge/benji-%238986-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uEsyzZ2X)
+[![Discord Badge](https://img.shields.io/badge/benjii-ross-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-benjaminrossignol11-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminrossignol11)
 [![Gmail Badge](https://img.shields.io/badge/-benjaminrossignol-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:benjamin.rossignol.11@gmail.com)
 
@@ -56,7 +56,7 @@ I am currently working on a project called [**ScanVerdict**](https://github.com/
 
 ### 🎵 I also do music!
 
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/benjiiross)
+[![Deezer Badge](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/fr/profile/5539960384)
 [![Soundcloud Badge](https://img.shields.io/badge/Soundcloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://open.spotify.com/user/n1z9ej6vmpexaaeypo8bar9yo)
 [![Ableton Live Badge](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white)](https://www.ableton.com/)
 
